@@ -80,3 +80,4 @@ public class bits {
             return count % 2 == 0;
         }
 }
+//NEW CHANGES
